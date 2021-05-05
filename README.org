@@ -1,0 +1,51 @@
+* Teoria da Computação
+** Cronograma
+
+  | Data             | Aula | Conteúdo                                                                      | Status vídeo |
+  |------------------+------+-------------------------------------------------------------------------------+--------------|
+  | [2021-05-10 Mon] |    1 | Live: apresentação da disciplina                                              | N/A          |
+  | [2021-05-12 Wed] |    2 | Máquinas de Turing: definições                                                |              |
+  | [2021-05-17 Mon] |    3 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-05-19 Wed] |    4 | Máquinas de Turing: definições                                                |              |
+  | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-05-26 Wed] |    6 | Linguagens Recursivas e Recursivamente Enumeráveis: definições e propriedades |              |
+  | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-06-02 Wed] |    8 | Extensões de Máquinas de Turing                                               |              |
+  | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-06-09 Wed] |   10 | Extensões de Máquinas de Turing                                               |              |
+  | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-06-16 Wed] |   12 | Máquinas de Turing Não-determinísticas                                        |              |
+  | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-06-23 Wed] |   14 | Gramáticas Irrestritas: definições                                            |              |
+  | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-06-30 Wed] |   16 | Gramáticas Irrestritas e Linguagens Recursivamente Enumeráveis                |              |
+  | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-07-07 Wed] |   18 | Indecidibilidade: tese de Church-Turing                                       |              |
+  | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-07-14 Wed] |   20 | Indecidibilidade: máquina de Turing universal                                 |              |
+  | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-07-21 Wed] |   22 | Indecidibilidade: problemas indecidíveis                                      |              |
+  | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-07-28 Wed] |   24 | Classes de Complexidade: definições e propriedades                            |              |
+  | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-08-04 Wed] |   26 | Classes de Complexidade: teoremas de hierarquia de tempo e espaço             |              |
+  | [2021-08-09 Mon] |   27 | Classes de Complexidade: métodod do alcance                                   |              |
+  | [2021-08-11 Wed] |   28 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-08-16 Mon] |   29 | Reduções: definições e propriedades                                           |              |
+  | [2021-08-18 Wed] |   30 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-08-23 Mon] |   31 | Completude: definições e propriedades                                         |              |
+  | [2021-08-25 Wed] |   32 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-08-30 Mon] |   33 | Classes NP e coNP: definições e propriedades                                  |              |
+  | [2021-09-01 Wed] |   34 | Live: tira-dúvidas                                                            | N/A          |
+  | [2021-09-06 Mon] |   AF |                                                                               | N/A          |
+  | [2021-09-08 Wed] |   AF |                                                                               | N/A          |
+
+** Entregas
+
+| Data             | Entrega     |
+|------------------+-------------|
+| [2021-06-23 qua] | aulas 2-12  |
+| [2021-07-07 qua] | aulas 14-16 |
+| [2021-07-28 qua] | aulas 18-22 |
+| [2021-08-09 Mon] | aulas 24-27 |
+| [2021-09-04 sáb] | aulas 29-33 |
