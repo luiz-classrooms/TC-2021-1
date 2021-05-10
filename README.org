@@ -1,4 +1,7 @@
 * Teoria da Computação
+
+  Link para playlist: https://www.youtube.com/playlist?list=PLRDuHd2Ia_bs0CS9PO64JjeG2heRP2EOg
+
 ** Cronograma
 
   | Data             | Aula | Conteúdo                                                                      | Status vídeo |
