@@ -6,7 +6,7 @@
   | [2021-05-10 Mon] |    1 | Live: apresentação da disciplina                                              | N/A          |
   | [2021-05-12 Wed] |    2 | Máquinas de Turing: definições                                                | Gravado      |
   | [2021-05-17 Mon] |    3 | Live: tira-dúvidas                                                            | N/A          |
-  | [2021-05-19 Wed] |    4 | Máquinas de Turing: definições                                                |              |
+  | [2021-05-19 Wed] |    4 | Máquinas de Turing: definições                                                | Gravado      |
   | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-05-26 Wed] |    6 | Linguagens Recursivas e Recursivamente Enumeráveis: definições e propriedades |              |
   | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                                                            | N/A          |
