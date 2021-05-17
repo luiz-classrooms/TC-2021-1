@@ -13,7 +13,7 @@
   | [2021-05-24 Mon] |    5 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-05-26 Wed] |    6 | Linguagens Recursivas e Recursivamente Enumeráveis: definições e propriedades | Gravado      |
   | [2021-05-31 Mon] |    7 | Live: tira-dúvidas                                                            | N/A          |
-  | [2021-06-02 Wed] |    8 | Extensões de Máquinas de Turing                                               |              |
+  | [2021-06-02 Wed] |    8 | Extensões de Máquinas de Turing                                               | Gravado      |
   | [2021-06-07 Mon] |    9 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-06-09 Wed] |   10 | Extensões de Máquinas de Turing                                               |              |
   | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                                                            | N/A          |
