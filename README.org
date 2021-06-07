@@ -19,7 +19,7 @@
   | [2021-06-14 Mon] |   11 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-06-16 Wed] |   12 | Máquinas de Turing Não-determinísticas                                        | Gravado      |
   | [2021-06-21 Mon] |   13 | Live: tira-dúvidas                                                            | N/A          |
-  | [2021-06-23 Wed] |   14 | Gramáticas Irrestritas: definições                                            |              |
+  | [2021-06-23 Wed] |   14 | Gramáticas Irrestritas: definições                                            | Gravado      |
   | [2021-06-28 Mon] |   15 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-06-30 Wed] |   16 | Gramáticas Irrestritas e Linguagens Recursivamente Enumeráveis                |              |
   | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                                                            | N/A          |
