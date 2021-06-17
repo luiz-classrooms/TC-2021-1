@@ -25,7 +25,7 @@
   | [2021-07-05 Mon] |   17 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-07-07 Wed] |   18 | Indecidibilidade: tese de Church-Turing                                       | Gravado      |
   | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                                                            | N/A          |
-  | [2021-07-14 Wed] |   20 | Indecidibilidade: máquina de Turing universal                                 |              |
+  | [2021-07-14 Wed] |   20 | Indecidibilidade: máquina de Turing universal                                 | Gravado      |
   | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-07-21 Wed] |   22 | Indecidibilidade: problemas indecidíveis                                      |              |
   | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                                                            | N/A          |
