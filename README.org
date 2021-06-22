@@ -27,7 +27,7 @@
   | [2021-07-12 Mon] |   19 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-07-14 Wed] |   20 | Indecidibilidade: máquina de Turing universal                                 | Gravado      |
   | [2021-07-19 Mon] |   21 | Live: tira-dúvidas                                                            | N/A          |
-  | [2021-07-21 Wed] |   22 | Indecidibilidade: problemas indecidíveis                                      |              |
+  | [2021-07-21 Wed] |   22 | Indecidibilidade: problemas indecidíveis                                      | Gravado      |
   | [2021-07-26 Mon] |   23 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-07-28 Wed] |   24 | Classes de Complexidade: definições e propriedades                            |              |
   | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                                                            | N/A          |
