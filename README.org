@@ -32,7 +32,7 @@
   | [2021-07-28 Wed] |   24 | Classes de Complexidade: definições e propriedades                            | Gravado      |
   | [2021-08-02 Mon] |   25 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-08-04 Wed] |   26 | Classes de Complexidade: teoremas de hierarquia de tempo e espaço             | Gravado      |
-  | [2021-08-09 Mon] |   27 | Classes de Complexidade: métodod do alcance                                   |              |
+  | [2021-08-09 Mon] |   27 | Classes de Complexidade: métodod do alcance                                   | Gravado      |
   | [2021-08-11 Wed] |   28 | Live: tira-dúvidas                                                            | N/A          |
   | [2021-08-16 Mon] |   29 | Reduções: definições e propriedades                                           |              |
   | [2021-08-18 Wed] |   30 | Live: tira-dúvidas                                                            | N/A          |
